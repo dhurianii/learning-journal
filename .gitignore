@@ -1,0 +1,15 @@
+ # Secret keys - NEVER push these
+.env
+secrets.js
+config.js
+
+# System files - nobody needs these
+.DS_Store
+Thumbs.db
+
+# Dependencies folder - too large to push
+node_modules/
+
+# Build output
+dist/
+build/
