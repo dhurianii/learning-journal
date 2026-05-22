@@ -35,6 +35,7 @@ my first ₹30,000/month job.
 | 01 | Git Setup & First Commit | ✅ Done | git init, add, commit, push |
 | 02 | Branching, .gitignore, GitHub Pages | ✅ Done | branch, merge, deploy |
 | 03 | JavaScript & REST APIs | ✅ Done | fetch(), async/await, JSON |
+| 04 | React Components + Gym Landing Page | ✅ Done | Components, Props, useState, Vercel |
 
 ## 🛠️ Tech Stack
 
